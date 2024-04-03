@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhsaur" alt="shubhsaur" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shubh_saur" target="blank"><img src="https://img.shields.io/twitter/follow/shubh_saur?logo=twitter&style=for-the-badge" alt="shubh_saur" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shubhsaur" target="blank"><img src="https://img.shields.io/twitter/follow/shubh_saur?logo=twitter&style=for-the-badge" alt="shubhsaur" /></a> </p>
 
 - 📫 How to reach me **shubhamsaurabh@outlook.com**
 
@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://codepen.io/shubhsaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shubhsaur" height="30" width="40" /></a>
 <a href="https://dev.to/shubhsaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shubhsaur" height="30" width="40" /></a>
-<a href="https://twitter.com/shubh_saur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubh_saur" height="30" width="40" /></a>
+<a href="https://twitter.com/shubhsaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubh_saur" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubhsaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhsaur" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18463578/shubham-saurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18463578/shubham-saurabh" height="30" width="40" /></a>
 <a href="https://medium.com/@shubh_saur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubh_saur" height="30" width="40" /></a>
